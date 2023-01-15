@@ -1,0 +1,305 @@
+[18-May-2022 07:01:03 UTC] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, string given in /home/sespimpolri/public_html/sdm/user.php on line 12
+[18-May-2022 07:01:23 UTC] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, string given in /home/sespimpolri/public_html/sdm/user.php on line 12
+[18-May-2022 07:13:06 UTC] PHP Parse error:  syntax error, unexpected ''+1 month'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/sespimpolri/public_html/sdm/user.php on line 9
+[18-May-2022 07:13:09 UTC] PHP Parse error:  syntax error, unexpected ''+1 month'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/sespimpolri/public_html/sdm/user.php on line 9
+[18-May-2022 07:13:13 UTC] PHP Parse error:  syntax error, unexpected ''+1 month'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/sespimpolri/public_html/sdm/user.php on line 9
+[18-May-2022 07:13:38 UTC] PHP Warning:  strtotime() expects at most 2 parameters, 3 given in /home/sespimpolri/public_html/sdm/user.php on line 9
+[18-May-2022 07:16:51 UTC] PHP Warning:  date() expects at most 2 parameters, 3 given in /home/sespimpolri/public_html/sdm/user.php on line 9
+[19-May-2022 02:47:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 15
+[19-May-2022 02:48:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 16
+[19-May-2022 02:48:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 16
+[19-May-2022 02:48:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 16
+[19-May-2022 02:49:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 17
+[19-May-2022 02:50:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 15
+[19-May-2022 02:51:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 15
+[19-May-2022 02:52:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 15
+[19-May-2022 02:59:19 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (25-01-36) at position 7 (6): Unexpected character in /home/sespimpolri/public_html/sdm/user.php:14
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(14): DateTime->__construct('25-01-36')
+#1 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 14
+[19-May-2022 03:00:27 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (2084832000) at position 8 (0): Unexpected character in /home/sespimpolri/public_html/sdm/user.php:14
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(14): DateTime->__construct('2084832000')
+#1 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 14
+[19-May-2022 03:01:15 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (01-2036) at position 0 (0): Unexpected character in /home/sespimpolri/public_html/sdm/user.php:14
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(14): DateTime->__construct('01-2036')
+#1 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 14
+[19-May-2022 03:01:17 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (01-2036) at position 0 (0): Unexpected character in /home/sespimpolri/public_html/sdm/user.php:14
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(14): DateTime->__construct('01-2036')
+#1 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 14
+[19-May-2022 03:01:34 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (01-2036) at position 0 (0): Unexpected character in /home/sespimpolri/public_html/sdm/user.php:14
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(14): DateTime->__construct('01-2036')
+#1 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 14
+[19-May-2022 03:03:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 15
+[19-May-2022 03:03:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 15
+[19-May-2022 03:03:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 15
+[19-May-2022 03:08:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 15
+[19-May-2022 03:09:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 16
+[19-May-2022 03:10:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 52
+[19-May-2022 03:10:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 52
+[19-May-2022 03:10:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 52
+[19-May-2022 03:21:31 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (01-2036) at position 0 (0): Unexpected character in /home/sespimpolri/public_html/sdm/user.php:909
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(909): DateTime->__construct('01-2036')
+#1 /home/sespimpolri/public_html/sdm/user.php(799): hitung_umur('01-2036')
+#2 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 909
+[19-May-2022 03:21:36 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (01-2036) at position 0 (0): Unexpected character in /home/sespimpolri/public_html/sdm/user.php:909
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(909): DateTime->__construct('01-2036')
+#1 /home/sespimpolri/public_html/sdm/user.php(799): hitung_umur('01-2036')
+#2 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 909
+[19-May-2022 03:22:08 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (01-2036) at position 0 (0): Unexpected character in /home/sespimpolri/public_html/sdm/user.php:920
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(920): DateTime->__construct('01-2036')
+#1 /home/sespimpolri/public_html/sdm/user.php(799): hitung_dinas('01-2036')
+#2 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 920
+[19-May-2022 03:22:14 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (01-2036) at position 0 (0): Unexpected character in /home/sespimpolri/public_html/sdm/user.php:920
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(920): DateTime->__construct('01-2036')
+#1 /home/sespimpolri/public_html/sdm/user.php(799): hitung_dinas('01-2036')
+#2 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 920
+[19-May-2022 03:28:07 UTC] PHP Parse error:  syntax error, unexpected 'status' (T_STRING), expecting ';' or ',' in /home/sespimpolri/public_html/sdm/user.php on line 836
+[19-May-2022 03:29:30 UTC] PHP Parse error:  syntax error, unexpected 'status' (T_STRING), expecting ';' or ',' in /home/sespimpolri/public_html/sdm/user.php on line 836
+[19-May-2022 03:36:47 UTC] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/sespimpolri/public_html/sdm/user.php on line 801
+[19-May-2022 03:40:02 UTC] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/sespimpolri/public_html/sdm/user.php on line 801
+[19-May-2022 03:40:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/sespimpolri/public_html/sdm/user.php:803
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 803
+[19-May-2022 03:42:23 UTC] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/sespimpolri/public_html/sdm/user.php on line 802
+[19-May-2022 03:42:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/sespimpolri/public_html/sdm/user.php:803
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 803
+[19-May-2022 03:48:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on int in /home/sespimpolri/public_html/sdm/user.php:802
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 802
+[19-May-2022 03:50:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on int in /home/sespimpolri/public_html/sdm/user.php:802
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 802
+[19-May-2022 03:50:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on int in /home/sespimpolri/public_html/sdm/user.php:802
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 802
+[19-May-2022 03:51:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on int in /home/sespimpolri/public_html/sdm/user.php:802
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 802
+[19-May-2022 03:51:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on int in /home/sespimpolri/public_html/sdm/user.php:802
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 802
+[19-May-2022 03:54:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on int in /home/sespimpolri/public_html/sdm/user.php:802
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 802
+[19-May-2022 03:56:24 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (05-2022) at position 0 (0): Unexpected character in /home/sespimpolri/public_html/sdm/user.php:800
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(800): DateTime->__construct('05-2022')
+#1 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 800
+[19-May-2022 03:58:30 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (05-2022) at position 0 (0): Unexpected character in /home/sespimpolri/public_html/sdm/user.php:800
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(800): DateTime->__construct('05-2022')
+#1 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 800
+[19-May-2022 03:58:31 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (05-2022) at position 0 (0): Unexpected character in /home/sespimpolri/public_html/sdm/user.php:800
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(800): DateTime->__construct('05-2022')
+#1 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 800
+[19-May-2022 03:59:13 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (05-2022) at position 0 (0): Unexpected character in /home/sespimpolri/public_html/sdm/user.php:13
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(13): DateTime->__construct('05-2022')
+#1 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 13
+[19-May-2022 03:59:36 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (05-2022) at position 0 (0): Unexpected character in /home/sespimpolri/public_html/sdm/user.php:13
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(13): DateTime->__construct('05-2022')
+#1 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 13
+[19-May-2022 04:00:03 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (05-2022) at position 0 (0): Unexpected character in /home/sespimpolri/public_html/sdm/user.php:13
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(13): DateTime->__construct('05-2022')
+#1 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 13
+[19-May-2022 04:01:37 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (05-2022) at position 0 (0): Unexpected character in /home/sespimpolri/public_html/sdm/user.php:13
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(13): DateTime->__construct('05-2022')
+#1 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 13
+[19-May-2022 04:01:39 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (05-2022) at position 0 (0): Unexpected character in /home/sespimpolri/public_html/sdm/user.php:13
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(13): DateTime->__construct('05-2022')
+#1 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 13
+[19-May-2022 04:01:41 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (05-2022) at position 0 (0): Unexpected character in /home/sespimpolri/public_html/sdm/user.php:13
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(13): DateTime->__construct('05-2022')
+#1 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 13
+[19-May-2022 04:02:53 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (01-2036) at position 0 (0): Unexpected character in /home/sespimpolri/public_html/sdm/user.php:14
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(14): DateTime->__construct('01-2036')
+#1 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 14
+[19-May-2022 04:02:54 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (01-2036) at position 0 (0): Unexpected character in /home/sespimpolri/public_html/sdm/user.php:14
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(14): DateTime->__construct('01-2036')
+#1 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 14
+[19-May-2022 04:04:00 UTC] PHP Warning:  Use of undefined constant old_date - assumed 'old_date' (this will throw an Error in a future version of PHP) in /home/sespimpolri/public_html/sdm/user.php on line 15
+[19-May-2022 04:04:02 UTC] PHP Warning:  Use of undefined constant old_date - assumed 'old_date' (this will throw an Error in a future version of PHP) in /home/sespimpolri/public_html/sdm/user.php on line 15
+[19-May-2022 04:04:03 UTC] PHP Warning:  Use of undefined constant old_date - assumed 'old_date' (this will throw an Error in a future version of PHP) in /home/sespimpolri/public_html/sdm/user.php on line 15
+[19-May-2022 04:04:04 UTC] PHP Warning:  Use of undefined constant old_date - assumed 'old_date' (this will throw an Error in a future version of PHP) in /home/sespimpolri/public_html/sdm/user.php on line 15
+[19-May-2022 04:04:34 UTC] PHP Warning:  Use of undefined constant old_date - assumed 'old_date' (this will throw an Error in a future version of PHP) in /home/sespimpolri/public_html/sdm/user.php on line 15
+[19-May-2022 04:04:35 UTC] PHP Warning:  Use of undefined constant old_date - assumed 'old_date' (this will throw an Error in a future version of PHP) in /home/sespimpolri/public_html/sdm/user.php on line 15
+[19-May-2022 04:04:36 UTC] PHP Warning:  Use of undefined constant old_date - assumed 'old_date' (this will throw an Error in a future version of PHP) in /home/sespimpolri/public_html/sdm/user.php on line 15
+[19-May-2022 04:05:09 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (2084832000) at position 8 (0): Unexpected character in /home/sespimpolri/public_html/sdm/user.php:14
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(14): DateTime->__construct('2084832000')
+#1 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 14
+[19-May-2022 04:05:11 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (2084832000) at position 8 (0): Unexpected character in /home/sespimpolri/public_html/sdm/user.php:14
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(14): DateTime->__construct('2084832000')
+#1 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 14
+[19-May-2022 04:05:59 UTC] PHP Warning:  Use of undefined constant old_date - assumed 'old_date' (this will throw an Error in a future version of PHP) in /home/sespimpolri/public_html/sdm/user.php on line 15
+[19-May-2022 04:06:00 UTC] PHP Warning:  Use of undefined constant old_date - assumed 'old_date' (this will throw an Error in a future version of PHP) in /home/sespimpolri/public_html/sdm/user.php on line 15
+[19-May-2022 04:06:01 UTC] PHP Warning:  Use of undefined constant old_date - assumed 'old_date' (this will throw an Error in a future version of PHP) in /home/sespimpolri/public_html/sdm/user.php on line 15
+[19-May-2022 04:10:43 UTC] PHP Warning:  explode() expects parameter 2 to be string, object given in /home/sespimpolri/public_html/sdm/user.php on line 14
+[19-May-2022 04:10:44 UTC] PHP Warning:  explode() expects parameter 2 to be string, object given in /home/sespimpolri/public_html/sdm/user.php on line 14
+[19-May-2022 04:14:16 UTC] PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, null given in /home/sespimpolri/public_html/sdm/user.php on line 17
+[19-May-2022 04:14:37 UTC] PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, string given in /home/sespimpolri/public_html/sdm/user.php on line 17
+[19-May-2022 04:14:38 UTC] PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, string given in /home/sespimpolri/public_html/sdm/user.php on line 17
+[19-May-2022 04:15:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 17
+[19-May-2022 04:15:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 17
+[19-May-2022 04:16:21 UTC] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, string given in /home/sespimpolri/public_html/sdm/user.php on line 17
+[19-May-2022 04:16:22 UTC] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, string given in /home/sespimpolri/public_html/sdm/user.php on line 17
+[19-May-2022 04:21:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 17
+[19-May-2022 04:21:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 17
+[19-May-2022 04:21:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 17
+[19-May-2022 04:21:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 17
+[19-May-2022 04:21:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 17
+[19-May-2022 04:22:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 17
+[19-May-2022 04:22:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 17
+[19-May-2022 04:22:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 17
+[19-May-2022 04:22:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/sespimpolri/public_html/sdm/user.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 17
+[19-May-2022 04:34:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vardump() in /home/sespimpolri/public_html/sdm/user.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 14
+[19-May-2022 04:34:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vardump() in /home/sespimpolri/public_html/sdm/user.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 14
+[19-May-2022 04:36:13 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (36363636-01-25) at position 7 (6): Double date specification in /home/sespimpolri/public_html/sdm/user.php:17
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(17): DateTime->__construct('36363636-01-25')
+#1 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 17
+[19-May-2022 04:36:28 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (36363636-01-25) at position 7 (6): Double date specification in /home/sespimpolri/public_html/sdm/user.php:17
+Stack trace:
+#0 /home/sespimpolri/public_html/sdm/user.php(17): DateTime->__construct('36363636-01-25')
+#1 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 17
+[19-May-2022 04:37:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function diff() on null in /home/sespimpolri/public_html/sdm/user.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/sespimpolri/public_html/sdm/user.php on line 19
